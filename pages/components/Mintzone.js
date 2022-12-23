@@ -205,25 +205,25 @@ export default function MintZone() {
                     >
                       <Image
                         alt=""
-                        src="/../public/logos/polygon.png"
+                        src="https://raw.githubusercontent.com/sebastobias/CrossChain-NFT-Minting/main/public/logos/polygon.png"
                         width={100}
                         height={100}
                       ></Image>
                       <Image
                         alt=""
-                        src="/../public/logos/ethereum.png"
+                        src="https://raw.githubusercontent.com/sebastobias/CrossChain-NFT-Minting/main/public/logos/ethereum.png"
                         width={70}
                         height={100}
                       ></Image>
                       <Image
                         alt=""
-                        src="/../public/logos/avax.png"
+                        src="https://raw.githubusercontent.com/sebastobias/CrossChain-NFT-Minting/main/public/logos/avax.png"
                         width={100}
                         height={100}
                       ></Image>
                       <Image
                         alt=""
-                        src="/../public/logos/bsc.png"
+                        src="https://raw.githubusercontent.com/sebastobias/CrossChain-NFT-Minting/main/public/logos/bsc.png"
                         width={100}
                         height={100}
                       ></Image>
