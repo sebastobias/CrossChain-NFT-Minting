@@ -40,7 +40,7 @@
     <br />
     <br />
     <br />
-    <a href="https://63a60b2968ae8948e2a368fa--stunning-nougat-5f61d6.netlify.app/">View Demo</a>
+    <a href="https://crosschainminting.netlify.app/">View Demo</a>
     ·
     <a href="https://github.com/sebastobias/CrossChain-NFT-Minting/issues">Report Bug</a>
     ·
