@@ -40,7 +40,7 @@
     <br />
     <br />
     <br />
-    <a href="https://github.com/sebastobias/CrossChain-NFT-Minting">View Demo</a>
+    <a href="[https://github.com/sebastobias/CrossChain-NFT-Minting](https://63a60b2968ae8948e2a368fa--stunning-nougat-5f61d6.netlify.app/)">View Demo</a>
     ·
     <a href="https://github.com/sebastobias/CrossChain-NFT-Minting/issues">Report Bug</a>
     ·
@@ -104,7 +104,6 @@ To get a local copy up and running follow these simple example steps.
 
 ### Prerequisites
 
-This is an example of how to list things you need to use the software and how to install them.
 * npm
   ```sh
   npm install npm@latest -g
@@ -112,15 +111,15 @@ This is an example of how to list things you need to use the software and how to
 
 ### Installation
 
-2. Clone the repo
+1. Clone the repo
    ```sh
    git clone https://github.com/sebastobias/CrossChain-NFT-Minting.git
    ```
-3. Install NPM packages
+2. Install NPM packages
    ```sh
    npm install
    ```
-4. Enter your Contract Address and ChainIds in `config.js`
+3. Enter your Contract Address and ChainIds in `config.js`
    ```js
    const chainId = {
     <"YOUR CHAIN ID">: "YOUR CONTRACT ADDRESS",
